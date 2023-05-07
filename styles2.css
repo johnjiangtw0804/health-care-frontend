@@ -38,6 +38,18 @@ h1 {
   color: lavender;
 }
 
+.doctorFeed {
+  background: navy;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 25px;
+  padding : 10px;
+  border-radius: 8px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+  color: lavender;
+}
+
 .perPatient {
   background: lavender;
   margin-right: 20px;
