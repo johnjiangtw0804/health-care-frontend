@@ -1,6 +1,6 @@
 $(document).ready(function() {
   var $app = $('#app');
-  var $title = $('<h1>Patient\'s Dashboard</h1>');
+  var $title = $('<h1>Patient Dashboard</h1>');
   var $feed = $('<div class="feed"></div>');
   var $form = $('<form id="form">Patient ID: </form>');
   var $input = $('<input type="text" id="patientID" value="1">');
